@@ -1,1 +1,2 @@
 ﻿This is a text file.
+Changed 1 time.
